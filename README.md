@@ -1,1 +1,3 @@
-# tww2-vco-2-framework
+# Victory Conditions Overhaul 2.0 Framework for TW:W2
+
+TBD
