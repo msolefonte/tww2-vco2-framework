@@ -2,7 +2,7 @@
 
 [Steam Workshop Mod Link](#)
 
-Victory Conditions Overhaul 2 framework mod for Total War: Warhammer 2.
+Victory Conditions Overhaul 2 framework mod for Total War: Warhammer II.
 
 ## Introduction
 
@@ -109,6 +109,9 @@ the most interesting thing to discuss here are the `victory_type` possibilities.
 can be available at the same time per faction, so, if you own multiple submods that add, for example, a Long Victory
 condition, one is going to override the other.
 
+## Frequently Asked Questions
+
+The FAQ can be found [here](https://www.github.com/msolefonte/tww2-vco2-framework/docs/faq.md). 
 
 ## Contributing
 
@@ -129,4 +132,5 @@ This project is licensed under the Apache License, Version 2.0 - see the [LICENS
 ## Acknowledgments
 
 * Special thanks to [Vandy](https://github.com/chadvandy) for its support during the development.
+* Special thanks to all the users that have supported the development economically.
 * Thanks to all the modders of the **Da Modding Den** Discord for they knowledge and they experience.
