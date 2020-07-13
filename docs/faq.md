@@ -1,5 +1,7 @@
 # Frequently Asked Questions
 
+Use `Ctrl+F` to look for your question.
+
 ## General
 
 ### Do Achievements still work?
