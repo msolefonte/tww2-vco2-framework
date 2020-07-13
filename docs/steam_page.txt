@@ -1,1 +1,58 @@
-TODO
+[img]https://i.imgur.com/fVVaDCS.gif[/img]
+
+[h2]Introduction[/h2]
+
+This mod adds a framework to easily add custom victory conditions to the game. Modding victory conditions is notably difficult and time consuming because it requires to create a `startpos.esf` file each time. This is a problem for the developer, as it takes more than ten minutes to compile and it leaves no logs, but also for the user, as compatibility with other mods is broken. This framework solves all these problems.
+
+You have to use it together with another mod. The framework will not do anything by itself.
+
+[h2]Introduced features[/h2]
+
+[list]
+[*]Victory Conditions are now loaded dynamically
+[list]
+[*]The compilation times have been reduced to zero
+[*]Creating [code]startpos.esf[/code] is no longer required
+[*]Compatibility patches are neither
+[*]Easier and faster debug
+[/list]
+[*]Objectives are now loaded per faction, not in blocks
+[list]
+[*]Small bugs are not longer going to affect large sets of factions
+[*]Easier debugging, as now only one faction is going to have bugs at a time
+[/list]
+[*]Native support for add-ons and submods
+[list]
+[*]Creating custom victory conditions is now encouraged
+[*]New submods for new victory conditions type are now available: Economic, Military and Cultural Victories are back
+[*]Now users can choose which victory conditions they want to have active
+[/list]
+[*]Enhanced compatibility with faction unlockers and major campaign modifications
+[*]Complete support for scripted objectives
+[list]
+[*]Now the victory objectives are not limited to the default options
+[/list]
+[/list]
+
+[h2]Frequently Asked Questions[/h2]
+
+A list of frequently asked questions can be found in [url=https://www.github.com/msolefonte/tww2-vco2-framework/docs/faq.md]here[/url].
+
+[h2]Special Thanks[/h2]
+
+[list]
+[*]Special thanks to Vandy for its support during the development.
+[*]Special thanks to all the users that have supported the development economically.
+[*]Thanks to all the modders of the [b]Da Modding Den[/b] Discord for they knowledge and they experience.
+[/list]
+
+[quote]
+[h2]Support My Work[/h2]
+[img]https://i.imgur.com/fVVaDCS.gif[/img]
+You can like the mod and share it with your friends. The bigger the community, the faster this mod is going to grow and the more interest I am going to place into maintaining it. You can also, of course, create Pull Request at GitHub or contact me directly to introduce new features.
+
+Finally, if you want to support economically my job, feel free to donate via [url=https://www.patreon.com/wolfylpdc]Patreon[/url] or [url=https://paypal.me/echaravolar]PayPal[/url].
+[/quote]
+
+[url=https://paypal.me/echaravolar][img]https://i.imgur.com/wCFBtFV.png[/img][/url]
+[url=https://www.patreon.com/wolfylpdc][img]https://i.imgur.com/kgiwQqf.png[/img][/url]
