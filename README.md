@@ -1,6 +1,6 @@
 # VCO2 Framework
 
-[Steam Workshop Mod Link](#)
+[Steam Workshop Mod Link](https://steamcommunity.com/sharedfiles/filedetails/?id=2165815605)
 
 Victory Conditions Overhaul 2 framework mod for Total War: Warhammer II.
 
