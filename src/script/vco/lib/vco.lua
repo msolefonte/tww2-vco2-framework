@@ -6,11 +6,13 @@ end
 
 function vco:trigger_faction_missions(mod_name, faction_key)
     local campaign_name = cm:get_campaign_name();
-    local missions = require("script/"..mod_name.."/factions/"..faction_key.."/campaigns/"..campaign_name.."/missions");
 
-    for _, mission in ipairs(missions) do
-        if mission and mission ~= "" then
-            cm:trigger_custom_mission_from_string(faction_key, mission);
+    local status, missions = pcall(require, "script/"..mod_name.."/factions/"..faction_key.."/campaigns/"..campaign_name.."/missions")
+    if(status) then
+        for _, mission in ipairs(missions) do
+            if mission and mission ~= "" then
+                cm:trigger_custom_mission_from_string(faction_key, mission);
+            end
         end
     end
 end

@@ -7,3 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] Initial Commit - 07.14.2020
 
 - Initial commit
+
+## [1.1.0] Update v1.1.0 - 18.07.2020
+
+- Fixed a bug that did not allow other scripts to work correctly 
+    - Now turn one decisions should be displayed
+    - Now unit upgrades scripts should work correctly
+    - Now Mixu's RoR should be possible to recruit
