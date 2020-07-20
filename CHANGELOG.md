@@ -14,3 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Now turn one decisions should be displayed
     - Now unit upgrades scripts should work correctly
     - Now Mixu's RoR should be possible to recruit
+
+## [1.2.0] Update v1.2.0 - 20.07.2020
+
+- Added support for Head to Head and Co-Operative victory conditions
