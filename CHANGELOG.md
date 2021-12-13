@@ -30,3 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.2.3] Patch Update - 5.12.2020
 
 - Add support for The Twisted & The Twilight DLC
+    
+## [1.3.0] Update v1.3.0 - 12.12.2021
+
+- Add support for _Routes_
