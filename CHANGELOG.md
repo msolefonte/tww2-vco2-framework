@@ -35,7 +35,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Add support for _Routes_
 
-## [1.3.1] Update v1.3.0 - 12.12.2021
+## [1.3.1] Update v1.3.1 - 21.12.2021
 
 - Add support for route tagging
 - Tags supported are Commerce, Conquest, Corruption, Destruction, Economy, Edification, Expansion, Final Battle, Magic
