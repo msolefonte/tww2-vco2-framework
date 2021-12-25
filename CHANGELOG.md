@@ -40,3 +40,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add support for route tagging
 - Tags supported are Commerce, Conquest, Corruption, Destruction, Economy, Edification, Expansion, Final Battle, Magic
   Supremacy, Miscellany, Naval Supremacy, Threat Elimination, Unification
+  
+## [1.3.2] TBA - TBA
+
+- Fix the Miscelany -> Miscellany bug
